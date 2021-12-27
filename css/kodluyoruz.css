@@ -1,0 +1,71 @@
+.display-4{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron{
+    margin-top: 8%;
+    margin-bottom: 15%;
+    text-align: center;
+}
+
+.lead{
+    padding-top: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.About h1{
+    text-align: center;
+    margin-top: 3%;
+    color: darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.About h2{
+    color: chocolate;
+}
+
+.About p{
+    color: rgb(59, 59, 59);
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.product h1{
+    text-align: center;
+    color: darkmagenta;
+    size: 15px;
+    font: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.product h5{
+    color: rgb(129, 95, 153);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+
+.card-text{
+    background-color: rgb(211, 213, 214);
+    border-radius: 15%;
+    text-align: left;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 2%;
+}
+
+.product{
+    margin: 3% 13%;
+}
+
+.product img{
+    height: 297px;
+    width: 297px;
+}
+
+.card{
+    padding-bottom: 10%;
+    height: 431px;
+    width: 300px;
+}
